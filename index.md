@@ -1,7 +1,7 @@
 ## Welcome to My Pages
 
 准备蓝桥杯！！！
-
+<a href="two.html">点击</a>
 ### My ready
 
 # 往年题目
